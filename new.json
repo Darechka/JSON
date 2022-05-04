@@ -1,5 +1,6 @@
 {
-	"person1": "Andrew",
-	"person2": "John",
-	"person3": "Michael"
+	"firstName": "Darya",
+	"lastName": "Zharskaya",
+	"numberOfPets": "2",
+	"salary": "$1000"
 }
