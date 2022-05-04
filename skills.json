@@ -1,0 +1,22 @@
+{
+	"QA theory": "yes",
+	"Server-client model": "yes",
+	"HTTP": "yes",
+	"JSON": "yes",
+	"XML": "yes",
+	"API testing": "yes",
+	"JS basics": "yes",
+	"Postman": "yes",
+	"Charles": "yes",
+	"Fiddler": "yes",
+	"Dev Tools": "yes",
+	"SQL basics": "yes",
+	"git bash": "yes",
+	"git": "yes",
+	"Mobile testing": "yes",
+	"Postgres": "yes",
+	"Redis ": "yes",
+	"Jmeter": "yes",
+	"SCRUM": "yes",
+	"Python basics": "yes"
+}
